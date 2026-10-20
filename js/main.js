@@ -51,7 +51,7 @@ ex3_d: 'Focused on backend development with C# and .NET Core, with basic fronten
        ex4_t: 'Workflow Automation', ex4_d: 'Connecting tools and automating repetitive tasks with n8n.',
 
       pres_title: 'Presentation Design',
-      pres_sub: 'Professional, academic and business presentations: structuring ideas and making existing slides clearer.',
+      pres_sub: 'Professional, academic presentations: structuring ideas and making existing slides clearer.',
       pres_gallery: 'Slide Gallery',
       ph_slide: 'Add your slide screenshot here',
       cap_slide1: 'Project title — short description',
@@ -119,12 +119,7 @@ ex3_d: 'أركز على تطوير الواجهات الخلفية باستخد�
       ex4_t: 'أتمتة سير العمل', ex4_d: 'ربط الأدوات وأتمتة المهام المتكررة باستخدام n8n.',
 
       pres_title: 'تصميم العروض التقديمية',
-      pres_sub: 'عروض تقديمية احترافية وأكاديمية وتجارية: تنظيم الأفكار وتحسين الشرائح الموجودة لتصبح أوضح.',
-      pres_gallery: 'معرض الشرائح',
-      ph_slide: 'أضف لقطة شاشة لشريحتك هنا',
-      cap_slide1: 'عنوان المشروع — وصف قصير',
-      cap_slide2: 'عنوان المشروع — وصف قصير',
-      cap_slide3: 'عنوان المشروع — وصف قصير',
+      pres_sub: 'عروض تقديمية احترافية وأكاديمية : تنظيم الأفكار وتحسين الشرائح الموجودة لتصبح أوضح.',
       fb_title: 'آراء العملاء',
       fb_sub: 'رسائل حقيقية من أشخاص عملت معهم على عروض تقديمية (لقطات شاشة).',
       fb_alt1: 'لقطة شاشة لرسالة من عميل بالعربية يشيد فيها بتصميم العرض',
