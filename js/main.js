@@ -26,10 +26,12 @@
       hero_btn_contact: 'Get in Touch',
       portrait_alt: 'Portrait of Wail Hannachi',
 
-      about_title: 'About Me',
-      about_p1: "I'm a university student who enjoys understanding how things work and turning ideas into something real. Programming gives me a way to break big problems into small, logical steps.",
-      about_p2: "I'm still early in my journey, and I treat every concept as something to learn properly: write it, break it, fix it, and understand why it works.",
-      about_p3: 'Besides code, I design presentations: turning ideas into clear, well-structured slides.',
+      
+about_title: 'About Me',
+about_p1: "I'm a university student specializing in Artificial Intelligence, passionate about programming, automation, and exploring how technology can solve real-world problems.",
+about_p2: "I'm passionate about learning, building, and improving. I focus on understanding concepts deeply, thinking logically, and learning through practice. Every challenge is an opportunity to grow and create something meaningful.",
+about_p3: "Beyond programming, I'm passionate about designing presentations that turn ideas into clear, engaging, and well-structured slides. I enjoy combining creativity and technology to bring ideas to life.",
+
       about_facts_aria: 'Quick facts',
       fact1_t: 'Problem solving', fact1_d: 'Breaking problems into clear steps',
       fact2_t: 'Continuous learning', fact2_d: 'Building strong fundamentals first',
