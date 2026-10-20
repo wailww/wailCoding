@@ -46,8 +46,9 @@ about_p3: "Beyond programming, I'm passionate about designing presentations that
       exploring_title: 'Currently Exploring',
       ex1_t: 'Programming Fundamentals', ex1_d: 'Variables, control flow, functions and clean code habits.',
       ex2_t: 'Algorithms', ex2_d: 'Thinking step by step and understanding how solutions scale.',
-      ex3_t: 'Web Development', ex3_d: 'Building responsive, accessible pages with HTML, CSS and JavaScript.',
-      ex4_t: 'Workflow Automation', ex4_d: 'Connecting tools and automating repetitive tasks with n8n.',
+ex3_t: 'Backend Development',
+ex3_d: 'Focused on backend development with C# and .NET Core, with basic frontend skills in HTML, CSS and JavaScript.',
+       ex4_t: 'Workflow Automation', ex4_d: 'Connecting tools and automating repetitive tasks with n8n.',
 
       pres_title: 'Presentation Design',
       pres_sub: 'Professional, academic and business presentations: structuring ideas and making existing slides clearer.',
@@ -113,7 +114,8 @@ about_p3: 'إلى جانب البرمجة، أنا شغوف بتصميم الع�
       exploring_title: 'ما أستكشفه حالياً',
       ex1_t: 'أساسيات البرمجة', ex1_d: 'المتغيرات، التحكم في التدفق، الدوال، وعادات الكتابة النظيفة.',
       ex2_t: 'الخوارزميات', ex2_d: 'التفكير خطوة بخطوة وفهم كيف تتوسع الحلول.',
-      ex3_t: 'تطوير الويب', ex3_d: 'بناء صفحات متجاوبة وسهلة الوصول باستخدام HTML وCSS وJavaScript.',
+ex3_t: 'تطوير الواجهات الخلفية',
+ex3_d: 'أركز على تطوير الواجهات الخلفية باستخدام C# و.NET Core، مع امتلاك أساسيات تطوير الواجهات الأمامية باستخدام HTML وCSS وJavaScript.',
       ex4_t: 'أتمتة سير العمل', ex4_d: 'ربط الأدوات وأتمتة المهام المتكررة باستخدام n8n.',
 
       pres_title: 'تصميم العروض التقديمية',
